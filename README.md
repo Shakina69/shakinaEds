@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--shakinaEds--Shakina69.aem.page/
+- Live: https://main--shakinaEds--Shakina69.aem.live/
 
 ## Documentation
 
