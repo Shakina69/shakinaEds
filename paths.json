@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/shakinaEds/:/",
-    "/content/shakinaEds/configuration:/.helix/config.json",
-    "/content/shakinaEds/metadata:/metadata.json"
+    "/content/shakinasite/:/",
+    "/content/shakinasite/configuration:/.helix/config.json",
+    "/content/shakinasite/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/shakinaEds/"
+    "/content/shakinasite/"
   ]
 }
